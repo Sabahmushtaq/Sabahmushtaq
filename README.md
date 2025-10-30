@@ -1,4 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Sabah  
+
+🚀 Flutter Developer | Firebase | Clean Architecture | BLoC | API Integration  
+
+💡 I love creating smooth, scalable, and beautiful mobile experiences.
+
+### 🧰 Tech Stack
+- **Languages:** Dart
+- **Frameworks:** Flutter
+- **Backend:** Firebase
+- **Tools:** Git, VS Code, Postman
+
 
 <!--
 **Sabahmushtaq/Sabahmushtaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
